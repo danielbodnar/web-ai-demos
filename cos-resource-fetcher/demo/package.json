@@ -13,7 +13,7 @@
     "cos-resource-fetcher": "file:.."
   },
   "devDependencies": {
-    "vite": "^8.0.16"
+    "vite": "^8.2.0"
   },
   "license": "Apache-2.0",
   "private": true
